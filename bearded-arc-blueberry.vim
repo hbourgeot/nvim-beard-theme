@@ -93,4 +93,6 @@ highlight! link TSConstant Constant
 highlight! link TSString String
 highlight! link TSPunctBracket MyTag
 
+highlight clear
+syntax reset
 let g:colors_name = "beard"
